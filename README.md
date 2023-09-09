@@ -15,7 +15,7 @@ Location use: ChatScreen (AttachmentOptions), DiscoverScreen
 Notification: ProfileScreen (Discover Reminder)
 
 External API use: ChatScreen (MessageActions): ChatGPT 3.5 Turbo API
-
+[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://www.youtube.com/watch?v=Ls5VPxbneDI)
 ![image-20230816214336312](./image-20230816214336312.png)
 ![image-20230816214407187](./image-20230816214407187.png)
 
