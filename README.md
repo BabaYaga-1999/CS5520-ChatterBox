@@ -20,7 +20,7 @@ External API use: ChatScreen (MessageActions): ChatGPT 3.5 Turbo API
 
 Demo on YouTube:
 [![Watch the video](https://img.youtube.com/vi/Ls5VPxbneDI/maxresdefault.jpg)](https://www.youtube.com/watch?v=Ls5VPxbneDI)
-<img src="./image-20230816214336312.png" width="100">
+<img src="./image-20230816214336312.png" width="100" height="100">
 ![image-20230816214336312](./image-20230816214336312.png | width=100)
 ![image-20230816214407187](./image-20230816214407187.png)
 
