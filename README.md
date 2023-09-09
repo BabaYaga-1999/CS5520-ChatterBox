@@ -2,9 +2,11 @@ Contribution
 
 SignUpScreen and LoginScreen are modified from instructor's Github
 
-Yucheng Wang: ChatScreen, ChatsScreen, FriendsScreen, SearchScreen, Firebase and OpenAI setup
+Yucheng Wang:  
+ChatScreen, ChatsScreen, FriendsScreen, SearchScreen, Firebase and OpenAI setup
 
-Xiangyuan Ding: DiscoverScreen, ProfileScreen, CreatePost, ProfileScreen, access management
+Xiangyuan Ding:  
+DiscoverScreen, ProfileScreen, CreatePost, ProfileScreen, access management
 
 Authentication: SignupScreen, LoginScreen
 
@@ -18,7 +20,7 @@ External API use: ChatScreen (MessageActions): ChatGPT 3.5 Turbo API
 
 Demo on YouTube:
 [![Watch the video](https://img.youtube.com/vi/Ls5VPxbneDI/maxresdefault.jpg)](https://www.youtube.com/watch?v=Ls5VPxbneDI)
-![image-20230816214336312](./image-20230816214336312.png)
+![image-20230816214336312](./image-20230816214336312.png =250x250)
 ![image-20230816214407187](./image-20230816214407187.png)
 
 Data Model
